@@ -625,7 +625,13 @@ namespace sub
 			{ "tale_intro" },
 			// b1604
 			{ "arena_int" },
-			{ "arena_int2" }
+			{ "arena_int2" },
+			{ "hs3f_dir_ent" },
+			{ "hs3f_dir_sew" },
+			{ "hs3f_mul_rp1" },
+			{ "hs3f_mul_rp2" },
+			{ "hs3f_mul_vlt" },
+			{ "hs3f_sub_vlt" }
 		};
 #pragma endregion
 
